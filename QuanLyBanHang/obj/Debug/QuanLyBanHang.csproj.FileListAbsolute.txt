@@ -1,0 +1,932 @@
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\bin\Debug\QLBannHang.mdf
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\bin\Debug\QLBannHang_log.ldf
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDoanhThu.resources
+H:\Đồ án CNPM\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\bin\Debug\QLBannHang.mdf
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\bin\Debug\QLBannHang_log.ldf
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\bin\Debug\QuanLyBanHang.exe
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\bin\Debug\QuanLyBanHang.pdb
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmDoanhThu.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.exe
+C:\Users\vancu\OneDrive\Máy tính\New folder (2)\obj\Debug\QuanLyBanHang.pdb
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\bin\Debug\QLBannHang.mdf
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\bin\Debug\QLBannHang_log.ldf
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.exe
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.pdb
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDoanhThu.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.exe
+C:\Users\vancu\OneDrive\Máy tính\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.pdb
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.exe.config
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.exe
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\QuanLyBanHang.pdb
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\EntityFramework.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\EntityFramework.SqlServer.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\EntityFramework.xml
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\EntityFramework.SqlServer.xml
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmMain.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.exe
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.pdb
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\EnvDTE.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\stdole.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\Microsoft.MSXML.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\RdlCompile.cache
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\RdlCompile.compiled
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmBCGiaSP.resources
+H:\Đồ án\Đồ án công nghệ phần mềm\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\stdole.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmBCGiaSP.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Report\rptDoanhThuReport.rdlc
+C:\Users\Admin\Saved Games\Máy tính\Game offline\bin\Debug\Report\rptSanPham.rdlc
+C:\Users\Admin\Saved Games\Máy tính\Game offline\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Report\rptDoanhThuReport.rdlc
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Report\rptSanPham.rdlc
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\stdole.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmBCGiaSP.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\frmBCGiaSP.resx
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\frmBCGiaSP.cs
+C:\Users\Admin\Saved Games\Máy tính\Đồ án\bin\Debug\frmBCGiaSP.Designer.cs
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Report\rptDoanhThuReport.rdlc
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Report\rptSanPham.rdlc
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe.config
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.pdb
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EnvDTE.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\stdole.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.xml
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.exe
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.pdb
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.cache
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.compiled
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.Interfaces.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.System.Drawing.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.xml
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Visual Studio\DoAnCu\New folder\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Report\rptDoanhThuReport.rdlc
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Report\rptSanPham.rdlc
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe.config
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.pdb
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.Interfaces.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.System.Drawing.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EnvDTE.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\stdole.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.MSXML.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.xml
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.xml
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.cache
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.compiled
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.exe
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.pdb
+D:\Test\1911062433_LeNguyenMinhHoan_19DTHA5\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.exe
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\QuanLyBanHang.pdb
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EnvDTE.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\stdole.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.xml
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\EPPlus.xml
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.exe
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.pdb
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.cache
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\RdlCompile.compiled
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\bin\Debug\Report\Report1.rdlc
+C:\Users\taoco\OneDrive\Máy tính\New folder (3)\1911062433_LeNguyenMinhHoan_19DTHA5\obj\Debug\QuanLyBanHang.frmChatLieu.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Report\Report1.rdlc
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EnvDTE.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\stdole.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.MSXML.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.xml
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChatLieu.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\convi\Downloads\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Report\Report1.rdlc
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EnvDTE.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\stdole.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.MSXML.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\EPPlus.xml
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\convi\OneDrive\Máy tính\QLBH-20231123T044345Z-001\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Report\Report1.rdlc
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EnvDTE.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\stdole.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.xml
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\convi\OneDrive\Máy tính\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Report\Report1.rdlc
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EnvDTE.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\stdole.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EPPlus.xml
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\EnvDTE.xml
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBCDoanhThu.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTKNV.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBa.0E1441E5.Up2Date
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\convi\Downloads\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\Phạm Hoàng Đoàn_Phạm Thị Hạnh_Đoàn Huy Hoàng\QLBH\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
